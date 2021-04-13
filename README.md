@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jesusyegres
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... mobile apps 
 - 🌱 I’m currently learning ... iOS 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... jesusyegres@icloud.com
